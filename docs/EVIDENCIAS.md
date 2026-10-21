@@ -1,10 +1,10 @@
-# Qué se conserva del proyecto completo
+# Requisitos y evidencias de aprendizaje
 
-No se ha reducido el número de máquinas, fuentes, escenarios ni vistas del panel. Cambia la autoría del código y la forma de obtener las evidencias. La versión original permanece en su repositorio independiente.
+Esta tabla indica qué componentes recibes preparados, qué actividades debes completar y qué evidencias debes aportar para explicar y comprobar tu trabajo individual.
 
-| Requisito original | Tratamiento en la versión guiada | Evidencia individual |
+| Requisito | Componentes y actividades | Evidencia individual |
 |---|---|---|
-| Contexto industrial y cuatro fuentes | Conservado; generador y SQL proporcionados | Modelo y explicación de claves, unidades y relaciones |
+| Contexto industrial y cuatro fuentes | Generador y SQL proporcionados | Modelo y explicación de claves, unidades y relaciones |
 | Seis máquinas, parámetros y manifiesto | Proporcionado; semilla, duración y máquinas configurables | Ejecutar y explicar reproducibilidad y hashes |
 | S01 duplicados y S08 conflictos | A1–A2; almacenamiento de rechazos proporcionado | Casos propios, reconciliación y repetición |
 | S02 sensor ausente | Detección de huecos proporcionada | Probar cobertura y explicar ausencia ≠ parada |
@@ -24,7 +24,7 @@ No se ha reducido el número de máquinas, fuentes, escenarios ni vistas del pan
 | RA1g coste/calidad y alternativas | Preguntas guiadas | Estimación razonada, supuestos y decisiones |
 | GitHub, informe, notebook, vídeo y defensa | Individual; plantillas proporcionadas | Autoría declarada y explicación del flujo completo |
 
-## P01–P11: no se eliminan requisitos
+## Pruebas de aceptación P01–P11
 
 | Caso | Cómo se comprueba |
 |---|---|
@@ -42,6 +42,6 @@ No se ha reducido el número de máquinas, fuentes, escenarios ni vistas del pan
 
 ## Evaluación justa
 
-Se conservan los pesos a–g del RA1. El profesor evalúa el código que has desarrollado, las pruebas añadidas, la interpretación y la defensa. Ejecutar código proporcionado no acredita su diseño autónomo. Los descriptores del anexo completo se aplican con esta distinción: no se exige reescribir las piezas entregadas para alcanzar un nivel alto, pero sí demostrar comprensión y comprobar sus límites. Conservamos el 80 % de evidencias del proyecto individual y 20 % de comprobación oral/práctica ya establecidos, sujeto a los acuerdos del módulo.
+Los criterios a–g del RA1 y sus pesos se indican en el enunciado. El profesor evalúa el código que has desarrollado, las pruebas añadidas, la interpretación y la defensa. Ejecutar código proporcionado no acredita su diseño autónomo. Los descriptores de la rúbrica se aplican con esta distinción: no se exige reescribir las piezas entregadas para alcanzar un nivel alto, pero sí demostrar comprensión y comprobar sus límites. La evaluación combina un 80 % de evidencias del proyecto individual y un 20 % de comprobación oral/práctica, según lo establecido en el enunciado y sujeto a los acuerdos del módulo.
 
-La estimación del núcleo guiado es 12–14 horas y debe revisarse en aula; las sesiones experimentales se integran en UT1. Conservar el alcance no permite garantizar el tiempo ni idéntica evidencia de autoría respecto a construir todo desde cero.
+La dedicación orientativa a las actividades principales es de 12–14 horas. Las sesiones experimentales se integran en UT1. Consulta en Moodle el calendario y las fechas de entrega.

@@ -1,6 +1,6 @@
 # Experimentos guiados de UT1
 
-Conservamos los experimentos del original. Se realizan cuando A1–A6 funcionan; A7 se completa en este bloque. Guarda resultados reales y versiones. No ejecutes perfiles grandes a la vez. Los scripts no presuponen que Spark sea más rápido.
+En este bloque estudiarás formatos, complejidad y procesamiento con distintos motores y volúmenes. Empieza cuando A1–A6 funcionen y completa aquí A7. Guarda resultados reales y versiones. No ejecutes perfiles grandes a la vez. Los scripts no presuponen que Spark sea más rápido.
 
 ## Complejidad, CSV/Parquet y Avro
 

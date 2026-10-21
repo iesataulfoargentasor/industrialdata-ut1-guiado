@@ -4,7 +4,7 @@
 <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10Z" fill="#52657b"/></marker></defs>
 <style>text{font-family:Arial,Helvetica,sans-serif;fill:#162c43}.title{font-size:26px;font-weight:700}.head{font-size:21px;font-weight:700}.body{font-size:17px}.small{font-size:15px}.blue{fill:#e8f2ff;stroke:#3979b3;stroke-width:2}.amber{fill:#fff3dc;stroke:#b87d1c;stroke-width:2}.gray{fill:#f0f3f6;stroke:#8796a7;stroke-width:2}.line{fill:none;stroke:#52657b;stroke-width:2.5;marker-end:url(#arrow)}</style>
 <rect width="1120" height="650" rx="18" fill="#fafcff"/>
-<text x="40" y="43" class="title">IndustrialData guiado · El mismo recorrido industrial</text>
+<text x="40" y="43" class="title">IndustrialData · De los datos al panel</text>
 <rect x="40" y="66" width="17" height="17" rx="3" class="blue"/><text x="66" y="80" class="small">Proporcionado y preparado</text>
 <rect x="310" y="66" width="17" height="17" rx="3" class="amber"/><text x="336" y="80" class="small">Actividades del alumno</text>
 <rect x="560" y="66" width="17" height="17" rx="3" class="gray"/><text x="586" y="80" class="small">Datos que creará vuestro proyecto</text>

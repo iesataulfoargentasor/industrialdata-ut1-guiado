@@ -2,9 +2,9 @@
 
 **UT1 · SBD · RA1 · IES Ataulfo Argenta · Castro Urdiales**
 
-Construirás el mismo sistema industrial de la [versión completa](https://github.com/iesataulfoargentasor/industrialdata-ut1-starter): seis máquinas, cuatro fuentes, escenarios S01–S08, calidad, energía, incidencias y panel. Aquí recibes parte del código funcionando. Tu trabajo se concentra en decisiones de datos, pruebas e interpretación. La versión completa sigue disponible sin cambios.
+Construirás una plataforma de datos industrial con seis máquinas, cuatro fuentes, escenarios S01–S08 y un panel de calidad, energía e incidencias. Recibes herramientas y componentes preparados para centrar tu trabajo en el tratamiento de los datos, las pruebas y la interpretación de resultados.
 
-**[Leer el enunciado guiado y la rúbrica](https://iesataulfoargentasor.github.io/industrialdata-ut1-guiado/enunciado.html)** · [Guía de actividades](docs/GUIA.md) · [Correspondencia con el original](docs/CORRESPONDENCIA.md)
+**[Leer el enunciado guiado y la rúbrica](https://iesataulfoargentasor.github.io/industrialdata-ut1-guiado/enunciado.html)** · [Guía de actividades](docs/GUIA.md) · [Requisitos y evidencias](docs/EVIDENCIAS.md)
 
 ## 1. Qué recibes y qué completas
 
@@ -118,13 +118,13 @@ Los archivos viven en `data/` y SQL en el volumen `industrialdata-guiado_pgdata`
 
 ## 6. Experimentos de UT1
 
-Sigue [la guía de experimentos](docs/EXPERIMENTOS.md): conserva complejidad, formatos, 100.000 y un millón de observaciones y comparación pandas/Spark. Los scripts gestionan repetición y medición; tú completas A7, compruebas equivalencia e interpretas resultados. No hay tiempos de referencia inventados.
+Sigue [la guía de experimentos](docs/EXPERIMENTOS.md) para estudiar complejidad, formatos, 100.000 y un millón de observaciones y comparación pandas/Spark. Los scripts gestionan repetición y medición; tú completas A7, compruebas equivalencia e interpretas resultados. No hay tiempos de referencia inventados.
 
 ## 7. Entrega individual
 
 Repositorio personal, commit/etiqueta, README adaptado, notebook ejecutado, informe y vídeo según el enunciado. Declara los módulos proporcionados y enlaza tus cambios. Usa issues, ramas y revisiones propias siguiendo [CONTRIBUTING.md](CONTRIBUTING.md). No subas `.env`, históricos ni resultados privados del profesor.
 
-Orientación: **12–14 horas para el núcleo guiado, por confirmar en aula**; los experimentos se integran en las sesiones de UT1. No se promete realizar todos los requisitos originales en ese tiempo ni trasladar automáticamente el resto a deberes.
+Dedicación orientativa: **12–14 horas para las actividades principales**. Los experimentos se integran en las sesiones de UT1. El profesor concretará el calendario y las fechas en Moodle.
 
 ## 8. Mapa de archivos
 
@@ -139,7 +139,7 @@ dashboard/app.py                    Panel proporcionado
 tests/                             Casos públicos; añade tus propios casos
 scripts/                           Herramientas de medición proporcionadas
 notebooks/                         Cuaderno guiado de evidencias
-docs/                              Enunciado, guía y correspondencia
+docs/                              Enunciado, guía y evidencias
 ```
 
 Si cambia una dependencia, reconstruye con `docker compose build pipeline` y recrea el panel. Si el generador avisa de datos diferentes, utiliza un nuevo `DATA_ROOT` para el experimento; no borres originales para ocultar el problema.
